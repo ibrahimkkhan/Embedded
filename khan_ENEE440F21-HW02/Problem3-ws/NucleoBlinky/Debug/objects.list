@@ -1,0 +1,4 @@
+"Src/mainHW02.o"
+"Src/myDataOps.o"
+"Src/userLED.o"
+"startup/startup_stm32l476xx.o"
